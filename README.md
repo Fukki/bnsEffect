@@ -7,12 +7,12 @@ VirusTotal: https://www.virustotal.com/gui/file-analysis/YjMwYzZmMTQxYmNkZmVmYjc
 Note: My program create easy code with autoit :v<br>
 
 # Updoot
-1.2
+1.2<br>
 - added auto update listfile
 - added wipefile for freespace
 - added new hash file check
 - use new config
-1.2a
-- fixed auto update listfile make program freeze
-1.2b
-- fixed auto update listfile timeout
+1.2a<br>
+- fixed auto update listfile make program freeze<br>
+1.2b<br>
+- fixed auto update listfile timeout<br>
