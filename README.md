@@ -16,3 +16,5 @@ Note: My program create easy code with autoit :v<br>
 - fixed auto update listfile make program freeze
 <br>1.2b
 - fixed auto update listfile timeout
+<br>1.2c
+- update file move and delete func
