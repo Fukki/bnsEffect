@@ -17,4 +17,4 @@ Note: My program create easy code with autoit :v<br>
 <br>1.2b
 - fixed auto update listfile timeout
 <br>1.2c
-- update file move and delete func
+- fixed client check now only run as admin
