@@ -18,3 +18,6 @@ Note: My program create easy code with autoit :v<br>
 - fixed auto update listfile timeout
 <br>1.2c
 - fixed client check now only run as admin
+<br>1.2d
+- fixed autoupdate
+- added auto update timeout to config
