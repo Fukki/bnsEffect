@@ -1,68 +1,85 @@
-00003814	TRUE	*? Effect 
-00006660	TRUE	*SUM Effect 
-00007242	TRUE	*? Effect 
-00007307	TRUE	*GUN Effect Gunner badge fix
-00007911	FALSE	*BM Animation 
-00007912	FALSE	*KFM Animation 
-00007913	FALSE	*FM Animation 
-00007914	FALSE	*DES Animation 
-00007915	FALSE	*GUN Animation 
-00007916	FALSE	*SIN Animation 
-00007917	FALSE	*SUM Animation 
-00008841	TRUE	*DES Effect 
-00008904	TRUE	*? Effect 
-00009393	TRUE	*? Effect 
-00009801	TRUE	*FM Effect 
-00009812	TRUE	*? Effect 
-00010354	TRUE	*? Effect 
-00010504	TRUE	*SIN Effect 
-00010772	TRUE	*? Effect 
-00010869	TRUE	*? Effect SB Remove
-00011949	TRUE	*? Effect 
-00012009	TRUE	*? Effect 
-00013263	TRUE	*BM Effect Remove_V_SpiritBM
-00018601	FALSE	*BD Animation 
-00023411	TRUE	*WL Effect Helix and Dragoncall remove
-00023412	TRUE	*WL Effect 
-00023439	FALSE	*WL Animation 
-00024690	TRUE	*? Effect 
-00026129	TRUE	*? Effect 
-00031769	TRUE	*BD Effect 
-00034408	FALSE	*SF Animation 
-00034433	TRUE	*SF Effect Remove soul fighter F
-00056126	FALSE	*WAR Animation 
-00056127	TRUE	*WAR Effect 
-00056566	FALSE	*WAR Animation 
-00056567	FALSE	*BM Animation 
-00056568	FALSE	*KFM Animation 
-00056569	FALSE	*FM Animation 
-00056570	FALSE	*DES Animation 
-00056571	FALSE	*GUN Animation 
-00056572	FALSE	*SIN Animation 
-00056573	FALSE	*SUM Animation 
-00056574	FALSE	*BD Animation 
-00056575	FALSE	*WL Animation 
-00056576	FALSE	*SF Animation 
-00056577	FALSE	*WAR Animation 
-00059534	TRUE	*? Effect 
-00060548	TRUE	*BM Effect Remove_V_SpiritBM
-00060550	TRUE	*FM Effect 
-00060551	TRUE	*DES Effect 
-00060552	TRUE	*GUN Effect 
-00060553	TRUE	*SIN Effect 
-00060554	TRUE	*SUM Effect 
-00060555	TRUE	*BD Effect 
-00060556	TRUE	*WL Effect 
-00060557	TRUE	*SF Effect 
-00060558	TRUE	*WAR Effect 
-00060729	TRUE	*? Effect 
-00064736	FALSE	*ARC Animation 
-00064738	TRUE	*ARC Effect 
-00064820	FALSE	*KFM Animation 
-00064821	TRUE	*KFM Effect 
-00067307	TRUE	*DES Effect 
-00068516	FALSE	*SIN Animation 
-00068626	FALSE	*FM Animation 
-00068628	FALSE	*FM Animation 
-00069254	TRUE	*? Effect 
-00072638	TRUE	*FM Effect 
+00009393	TRUE	*Main - Effect
+00010869	TRUE	*Main - Effect
+00009812	TRUE	*Main - Effect
+00003814	TRUE	*Main - Effect
+00007242	TRUE	*Main - Effect
+00008904	TRUE	*Main - Effect
+00024690	TRUE	*Main - Effect
+00059534	TRUE	*Main - Effect
+00010772	TRUE	*Main - Effect
+00011949	TRUE	*Main - Effect
+00012009	TRUE	*Main - Effect
+00026129	TRUE	*Main - Effect
+00061144	TRUE	*Main - Effect
+00010504	TRUE	*Assassin - Effect
+00060553	TRUE	*Assassin - Effect
+00069254	TRUE	*Assassin - Effect
+00007916	FALSE	*Assassin - Animation
+00056572	FALSE	*Assassin - Animation
+00068516	FALSE	*Assassin - Animation
+00006660	TRUE	*Summoner - Effect
+00060554	TRUE	*Summoner - Effect
+00080169	TRUE	*Summoner - Effect
+00007917	FALSE	*Summoner - Animation
+00056573	FALSE	*Summoner - Animation
+00080266	FALSE	*Summoner - Animation
+00060549	TRUE	*KungFuMaster - Effect
+00010771	TRUE	*KungFuMaster - Effect
+00064821	TRUE	*KungFuMaster - Effect
+00007912	FALSE	*KungFuMaster - Animation
+00056568	FALSE	*KungFuMaster - Animation
+00064820	FALSE	*KungFuMaster - Animation
+00007307	TRUE	*Gunslinger - Effect
+00060552	TRUE	*Gunslinger - Effect
+00007915	FALSE	*Gunslinger - Animation
+00056571	FALSE	*Gunslinger - Animation
+00008841	TRUE	*Destroyer - Effect
+00060551	TRUE	*Destroyer - Effect
+00067307	TRUE	*Destroyer - Effect
+00007914	FALSE	*Destroyer - Animation
+00056570	FALSE	*Destroyer - Animation
+00068515	FALSE	*Destroyer - Animation
+00009801	TRUE	*Forcemaster - Effect
+00060550	TRUE	*Forcemaster - Effect
+00072638	TRUE	*Forcemaster - Effect
+00007913	FALSE	*Forcemaster - Animation
+00056569	FALSE	*Forcemaster - Animation
+00068626	FALSE	*Forcemaster - Animation
+00068628	FALSE	*Forcemaster - Animation
+00034433	TRUE	*Soulfighter - Effect
+00060557	TRUE	*Soulfighter - Effect
+00034408	FALSE	*Soulfighter - Animation
+00056576	FALSE	*Soulfighter - Animation
+00064738	TRUE	*Archer - Effect
+00068166	TRUE	*Archer - Effect
+00064736	FALSE	*Archer - Animation
+00010354	TRUE	*Blademaster - Effect
+00013263	TRUE	*Blademaster - Effect
+00060548	TRUE	*Blademaster - Effect
+00007911	FALSE	*Blademaster - Animation
+00056567	FALSE	*Blademaster - Animation
+00031769	TRUE	*Bladedancer - Effect
+00060555	TRUE	*Bladedancer - Effect
+00072644	TRUE	*Bladedancer - Effect
+00072646	TRUE	*Bladedancer - Effect
+00018601	FALSE	*Bladedancer - Animation
+00056574	FALSE	*Bladedancer - Animation
+00078303	FALSE	*Bladedancer - Animation
+00078533	FALSE	*Bladedancer - Animation
+00023411	TRUE	*Warlock - Effect
+00023412	TRUE	*Warlock - Effect
+00060556	TRUE	*Warlock - Effect
+00060729	TRUE	*Warlock - Effect
+00023439	FALSE	*Warlock - Animation
+00056575	FALSE	*Warlock - Animation
+00056127	TRUE	*Warden - Effect
+00060558	TRUE	*Warden - Effect
+00020753	TRUE	*Warden - Effect
+00056577	FALSE	*Warden - Animation
+00056126	FALSE	*Warden - Animation
+00056566	FALSE	*Warden - Animation
+00072639	TRUE	*Astromancer - Effect
+00072642	TRUE	*Astromancer - Effect
+00076159	FALSE	*Astromancer - Animation
+00069237	FALSE	*Astromancer - Animation
+00069238	FALSE	*Astromancer - Animation
