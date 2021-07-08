@@ -11,6 +11,7 @@
 00012009	TRUE	*Main - Effect
 00026129	TRUE	*Main - Effect
 00061144	TRUE	*Main - Effect
+00061518	TRUE	*New soul - Effect
 00010504	TRUE	*Assassin - Effect
 00060553	TRUE	*Assassin - Effect
 00069254	TRUE	*Assassin - Effect
